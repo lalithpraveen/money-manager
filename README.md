@@ -1,4 +1,4 @@
-In this practice let's build a **Money Manager** by applying the concepts we have learned till now.
+In this practice I built a **Money Manager** by applying the concepts I have learned till now.
 
 ### Refer to the image below:
 
